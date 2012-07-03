@@ -3,7 +3,7 @@ import threading
 
 __plugin__ = 'Yahoo Movie Trailers (HD)'
 __author__ = 'EbiL <rmrfworld@gmail.com>'
-__url__ = 'git://github.com/rmrfworld/Yahoo-Movie-Trailers--HD-.git'
+__url__ = 'git://github.com/rmrfworld/plugin.video.yahoo.trailershd.git'
 __date__ = '3 Jul 2012'
 __version__ = '1.1.0'
 __settings__ = xbmcaddon.Addon(id='plugin.video.yahoo.trailershd')
